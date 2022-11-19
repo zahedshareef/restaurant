@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@Html.AntiForgeryToken()
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="input-group mb-3">
+    <input type="text" class="form-control autocomplete" placeholder="Enter a cocktail" id="cocktail" autocomplete="off" spellcheck="false">
+    <button class="btn btn-outline-secondary" type="button" onclick="Postdata()">Search</button>
+</div>
+
+<div id="grid"></div>
+
+@section Scripts
+{
+    <script>
+        let menu = [];
+        const input = document.getElementById('cocktail');
+        
+        $(document).ready(function() {
+            //this ajax loads all the menu items for autocomplete 
+            $.ajax({
+                    method: "GET",
+                    url: "/?handler=Cocktails",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    data: { q: input.value },
+                    headers: { RequestVerificationToken: $('input:hidden[name="__RequestVerificationToken"]').val() }
+                })
+                .done(function(data) {
+                    for (let i = 0; i < data.length; i++) {
+                        menu.push(data[i]);
+                    }
+                })
+                .fail(function() {
+                    console.log("Failed");
+                })
+        });
+        
+        //set autocomplete on input text box
+        autocomplete(input, menu);
+        
+        //clear the results if input text is empty
+        const observer = new MutationObserver(list => {
+            if (list[0].target.value === '' || list[0].target.value === null) {
+                $("#grid").html('');
+            }
+        })
+        observer.observe(input, {
+            attributes: true
+        });
+        
+        //retrieve restaurant list
+        function Postdata() {
+            if (input.value === '' || input.value === null)
+                return;
+            
+            $.ajax({
+                type: "POST",
+                url: "/?handler=Restaurants",
+                data: { cocktail: input.value },
+                headers: { RequestVerificationToken: $('input:hidden[name="__RequestVerificationToken"]').val() },
+                success: function(response) { $("#grid").html(response); },
+                failure: function(response) { console.log(response.responseText); },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.log("status: " + textStatus + "\n error: " + errorThrown);
+                }
+            });
+        }
+    </script>
+}

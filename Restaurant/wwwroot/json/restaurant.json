@@ -1,0 +1,856 @@
+[
+  {
+    "rid": 1,
+    "cid": 6,
+    "name": "WENDY'S",
+    "city": "Brooklyn",
+    "building": 469,
+    "street": "FLATBUSH AVENUE",
+    "zipcode": 11225
+  },
+  {
+    "rid": 2,
+    "cid": 1,
+    "name": "DJ REYNOLDS PUB AND RESTAURANT",
+    "city": "Manhattan",
+    "building": 351,
+    "street": "WEST 57 STREET",
+    "zipcode": 10019
+  },
+  {
+    "rid": 3,
+    "cid": 2,
+    "name": "RIVIERA CATERERS",
+    "city": "Brooklyn",
+    "building": 2780,
+    "street": "STILLWELL AVENUE",
+    "zipcode": 11224
+  },
+  {
+    "rid": 4,
+    "cid": 3,
+    "name": "WILKEN'S FINE FOOD",
+    "city": "Brooklyn",
+    "building": 7114,
+    "street": "AVENUE U",
+    "zipcode": 11234
+  },
+  {
+    "rid": 5,
+    "cid": 4,
+    "name": "TASTE THE TROPICS ICE CREAM",
+    "city": "Brooklyn",
+    "building": 1839,
+    "street": "NOSTRAND AVENUE",
+    "zipcode": 11226
+  },
+  {
+    "rid": 6,
+    "cid": 5,
+    "name": "WILD ASIA",
+    "city": "Bronx",
+    "building": 2300,
+    "street": "SOUTHERN BOULEVARD",
+    "zipcode": 10460
+  },
+  {
+    "rid": 7,
+    "cid": 6,
+    "name": "1 EAST 66TH STREET KITCHEN",
+    "city": "Manhattan",
+    "building": 1,
+    "street": "EAST   66 STREET",
+    "zipcode": 10065
+  },
+  {
+    "rid": 8,
+    "cid": 7,
+    "name": "NATHAN'S FAMOUS",
+    "city": "Brooklyn",
+    "building": 1310,
+    "street": "SURF AVENUE",
+    "zipcode": 11224
+  },
+  {
+    "rid": 9,
+    "cid": 8,
+    "name": "SEUDA FOODS",
+    "city": "Brooklyn",
+    "building": 705,
+    "street": "KINGS HIGHWAY",
+    "zipcode": 11223
+  },
+  {
+    "rid": 10,
+    "cid": 9,
+    "name": "CARVEL",
+    "city": "Brooklyn",
+    "building": 203,
+    "street": "CHURCH AVENUE",
+    "zipcode": 11218
+  },
+  {
+    "rid": 11,
+    "cid": 10,
+    "name": "SAL'S DELI",
+    "city": "Queens",
+    "building": 12908,
+    "street": "20 AVENUE",
+    "zipcode": 11356
+  },
+  {
+    "rid": 12,
+    "cid": 11,
+    "name": "STEVE CHU'S DELI & GROCERY",
+    "city": "Queens",
+    "building": 3406,
+    "street": "10 STREET",
+    "zipcode": 11106
+  },
+  {
+    "rid": 13,
+    "cid": 12,
+    "name": "P & S DELI GROCERY",
+    "city": "Manhattan",
+    "building": 730,
+    "street": "COLUMBUS AVENUE",
+    "zipcode": 10025
+  },
+  {
+    "rid": 14,
+    "cid": 13,
+    "name": "ANGELIKA FILM CENTER",
+    "city": "Manhattan",
+    "building": 18,
+    "street": "WEST HOUSTON STREET",
+    "zipcode": 10012
+  },
+  {
+    "rid": 15,
+    "cid": 14,
+    "name": "HO MEI RESTAURANT",
+    "city": "Queens",
+    "building": 103,
+    "street": "37 AVENUE",
+    "zipcode": 11368
+  },
+  {
+    "rid": 16,
+    "cid": 15,
+    "name": "SHASHEMENE INT'L RESTAURANT",
+    "city": "Brooklyn",
+    "building": 195,
+    "street": "EAST   56 STREET",
+    "zipcode": 11203
+  },
+  {
+    "rid": 17,
+    "cid": 16,
+    "name": "CAFE METRO",
+    "city": "Manhattan",
+    "building": 625,
+    "street": "8 AVENUE",
+    "zipcode": 10018
+  },
+  {
+    "rid": 18,
+    "cid": 17,
+    "name": "BAGELS N BUNS",
+    "city": "Staten Island",
+    "building": 2491,
+    "street": "VICTORY BOULEVARD",
+    "zipcode": 10314
+  },
+  {
+    "rid": 19,
+    "cid": 18,
+    "name": "HOT BAGELS",
+    "city": "Queens",
+    "building": 7905,
+    "street": "METROPOLITAN AVENUE",
+    "zipcode": 11379
+  },
+  {
+    "rid": 20,
+    "cid": 19,
+    "name": "CARVEL",
+    "city": "Staten Island",
+    "building": 1111,
+    "street": "HYLAN BOULEVARD",
+    "zipcode": 10305
+  },
+  {
+    "rid": 21,
+    "cid": 20,
+    "name": "NEW GOLDEN BILLION",
+    "city": "Brooklyn",
+    "building": 976,
+    "street": "RUTLAND ROAD",
+    "zipcode": 11212
+  },
+  {
+    "rid": 22,
+    "cid": 21,
+    "name": "SPOONBREAD TOO",
+    "city": "Manhattan",
+    "building": 364,
+    "street": "WEST  110 STREET",
+    "zipcode": 10025
+  },
+  {
+    "rid": 23,
+    "cid": 22,
+    "name": "KOSHER BAGEL HOLE",
+    "city": "Brooklyn",
+    "building": 1423,
+    "street": "AVENUE J",
+    "zipcode": 11230
+  },
+  {
+    "rid": 24,
+    "cid": 23,
+    "name": "HAPPY GARDEN",
+    "city": "Bronx",
+    "building": 277,
+    "street": "EAST KINGSBRIDGE ROAD",
+    "zipcode": 10458
+  },
+  {
+    "rid": 25,
+    "cid": 24,
+    "name": "PHILADELPHIA GRILLE EXPRESS",
+    "city": "Brooklyn",
+    "building": 10004,
+    "street": "4 AVENUE",
+    "zipcode": 11209
+  },
+  {
+    "rid": 26,
+    "cid": 25,
+    "name": "PETER LUGER STEAKHOUSE",
+    "city": "Brooklyn",
+    "building": 178,
+    "street": "BROADWAY",
+    "zipcode": 11211
+  },
+  {
+    "rid": 27,
+    "cid": 26,
+    "name": "METROPOLITAN CLUB",
+    "city": "Manhattan",
+    "building": 1,
+    "street": "EAST   60 STREET",
+    "zipcode": 10022
+  },
+  {
+    "rid": 28,
+    "cid": 27,
+    "name": "21 CLUB",
+    "city": "Manhattan",
+    "building": 21,
+    "street": "WEST   52 STREET",
+    "zipcode": 10019
+  },
+  {
+    "rid": 29,
+    "cid": 28,
+    "name": "ISLE OF CAPRI RESTURANT",
+    "city": "Manhattan",
+    "building": 1028,
+    "street": "3 AVENUE",
+    "zipcode": 10065
+  },
+  {
+    "rid": 30,
+    "cid": 29,
+    "name": "OLD TOWN BAR & RESTAURANT",
+    "city": "Manhattan",
+    "building": 45,
+    "street": "EAST   18 STREET",
+    "zipcode": 10003
+  },
+  {
+    "rid": 31,
+    "cid": 30,
+    "name": "POLISH NATIONAL HOME",
+    "city": "Brooklyn",
+    "building": 261,
+    "street": "DRIGGS AVENUE",
+    "zipcode": 11222
+  },
+  {
+    "rid": 32,
+    "cid": 31,
+    "name": "SEVILLA RESTAURANT",
+    "city": "Manhattan",
+    "building": 62,
+    "street": "CHARLES STREET",
+    "zipcode": 10014
+  },
+  {
+    "rid": 33,
+    "cid": 32,
+    "name": "CRIMINAL COURT BLDG CAFETERIA",
+    "city": "Manhattan",
+    "building": 100,
+    "street": "CENTRE STREET",
+    "zipcode": 10013
+  },
+  {
+    "rid": 34,
+    "cid": 33,
+    "name": "GOTTSCHEER HALL",
+    "city": "Queens",
+    "building": 657,
+    "street": "FAIRVIEW AVENUE",
+    "zipcode": 11385
+  },
+  {
+    "rid": 35,
+    "cid": 34,
+    "name": "NYAC MAIN DINING ROOM",
+    "city": "Manhattan",
+    "building": 180,
+    "street": "CENTRAL PARK SOUTH",
+    "zipcode": 10019
+  },
+  {
+    "rid": 36,
+    "cid": 35,
+    "name": "7B BAR",
+    "city": "Manhattan",
+    "building": 108,
+    "street": "AVENUE B",
+    "zipcode": 10009
+  },
+  {
+    "rid": 37,
+    "cid": 36,
+    "name": "CAFE ATELIER (ART STUDENTS LEAGUE)",
+    "city": "Manhattan",
+    "building": 215,
+    "street": "WEST   57 STREET",
+    "zipcode": 10019
+  },
+  {
+    "rid": 38,
+    "cid": 37,
+    "name": "DONOHUE'S STEAK HOUSE",
+    "city": "Manhattan",
+    "building": 845,
+    "street": "LEXINGTON AVENUE",
+    "zipcode": 10065
+  },
+  {
+    "rid": 39,
+    "cid": 38,
+    "name": "JUNIOR'S",
+    "city": "Brooklyn",
+    "building": 386,
+    "street": "FLATBUSH AVENUE EXTENSION",
+    "zipcode": 11201
+  },
+  {
+    "rid": 40,
+    "cid": 39,
+    "name": "MARCHIS RESTAURANT",
+    "city": "Manhattan",
+    "building": 251,
+    "street": "EAST   31 STREET",
+    "zipcode": 10016
+  },
+  {
+    "rid": 41,
+    "cid": 40,
+    "name": "OLD HOMESTEAD",
+    "city": "Manhattan",
+    "building": 56,
+    "street": "9 AVENUE",
+    "zipcode": 10011
+  },
+  {
+    "rid": 42,
+    "cid": 41,
+    "name": "NEW PARK PIZZERIA & RESTAURANT",
+    "city": "Queens",
+    "building": 156,
+    "street": "CROSSBAY BOULEVARD",
+    "zipcode": 11414
+  },
+  {
+    "rid": 43,
+    "cid": 42,
+    "name": "DOUGLASTON CLUB",
+    "city": "Queens",
+    "building": 600,
+    "street": "WEST DRIVE",
+    "zipcode": 11363
+  },
+  {
+    "rid": 44,
+    "cid": 43,
+    "name": "THE NEW STARLING ATHLETIC CLUB OF THE BRONX",
+    "city": "Bronx",
+    "building": 2222,
+    "street": "HAVILAND AVENUE",
+    "zipcode": 10462
+  },
+  {
+    "rid": 45,
+    "cid": 44,
+    "name": "CRYSTAL ROOM",
+    "city": "Staten Island",
+    "building": 67,
+    "street": "OLYMPIA BOULEVARD",
+    "zipcode": 10305
+  },
+  {
+    "rid": 46,
+    "cid": 45,
+    "name": "MCSORLEY'S OLD ALE HOUSE",
+    "city": "Manhattan",
+    "building": 15,
+    "street": "EAST    7 STREET",
+    "zipcode": 10003
+  },
+  {
+    "rid": 47,
+    "cid": 46,
+    "name": "SOUTH SHORE SWIMMING CLUB",
+    "city": "Staten Island",
+    "building": 6736,
+    "street": "HYLAN BOULEVARD",
+    "zipcode": 10309
+  },
+  {
+    "rid": 48,
+    "cid": 47,
+    "name": "CORNER BISTRO",
+    "city": "Manhattan",
+    "building": 331,
+    "street": "WEST    4 STREET",
+    "zipcode": 10014
+  },
+  {
+    "rid": 49,
+    "cid": 48,
+    "name": "NOSTRAND DONUT SHOP",
+    "city": "Brooklyn",
+    "building": 1449,
+    "street": "NOSTRAND AVENUE",
+    "zipcode": 11226
+  },
+  {
+    "rid": 50,
+    "cid": 49,
+    "name": "DORRIAN'S RED HAND RESTAURANT",
+    "city": "Manhattan",
+    "building": 1616,
+    "street": "2 AVENUE",
+    "zipcode": 10028
+  },
+  {
+    "rid": 51,
+    "cid": 50,
+    "name": "LA GRENOUILLE",
+    "city": "Manhattan",
+    "building": 3,
+    "street": "EAST   52 STREET",
+    "zipcode": 10022
+  },
+  {
+    "rid": 52,
+    "cid": 51,
+    "name": "KEATS RESTAURANT",
+    "city": "Manhattan",
+    "building": 842,
+    "street": "2 AVENUE",
+    "zipcode": 10017
+  },
+  {
+    "rid": 53,
+    "cid": 52,
+    "name": "ARTURO'S",
+    "city": "Manhattan",
+    "building": 106,
+    "street": "WEST HOUSTON STREET",
+    "zipcode": 10012
+  },
+  {
+    "rid": 54,
+    "cid": 53,
+    "name": "YANKEE TAVERN",
+    "city": "Bronx",
+    "building": 72,
+    "street": "EAST  161 STREET",
+    "zipcode": 10451
+  },
+  {
+    "rid": 55,
+    "cid": 54,
+    "name": "DONUT PUB",
+    "city": "Manhattan",
+    "building": 203,
+    "street": "WEST   14 STREET",
+    "zipcode": 10011
+  },
+  {
+    "rid": 56,
+    "cid": 55,
+    "name": "REBEN LUNCHEONETTE",
+    "city": "Brooklyn",
+    "building": 229,
+    "street": "HAVEMEYER STREET",
+    "zipcode": 11211
+  },
+  {
+    "rid": 57,
+    "cid": 56,
+    "name": "V & T RESTAURANT",
+    "city": "Manhattan",
+    "building": 1024,
+    "street": "AMSTERDAM AVENUE",
+    "zipcode": 10025
+  },
+  {
+    "rid": 58,
+    "cid": 57,
+    "name": "JAHN'S RESTAURANT",
+    "city": "Queens",
+    "building": 8104,
+    "street": "37 AVENUE",
+    "zipcode": 11372
+  },
+  {
+    "rid": 59,
+    "cid": 58,
+    "name": "J&V FAMOUS PIZZA",
+    "city": "Brooklyn",
+    "building": 6322,
+    "street": "18 AVENUE",
+    "zipcode": 11204
+  },
+  {
+    "rid": 60,
+    "cid": 59,
+    "name": "JOE ALLEN RESTAURANT",
+    "city": "Manhattan",
+    "building": 326,
+    "street": "WEST   46 STREET",
+    "zipcode": 10036
+  },
+  {
+    "rid": 61,
+    "cid": 60,
+    "name": "BARBETTA RESTAURANT",
+    "city": "Manhattan",
+    "building": 319321,
+    "street": "323 W. 46TH ST.",
+    "zipcode": 10032
+  },
+  {
+    "rid": 62,
+    "cid": 61,
+    "name": "GARGIULO'S RESTAURANT",
+    "city": "Brooklyn",
+    "building": 2911,
+    "street": "WEST   15 STREET",
+    "zipcode": 11224
+  },
+  {
+    "rid": 63,
+    "cid": 62,
+    "name": "PATSY'S ITALIAN RESTAURANT",
+    "city": "Manhattan",
+    "building": 236,
+    "street": "WEST   56 STREET",
+    "zipcode": 10019
+  },
+  {
+    "rid": 64,
+    "cid": 63,
+    "name": "PARKSIDE RESTAURANT",
+    "city": "Queens",
+    "building": 10701,
+    "street": "CORONA AVENUE",
+    "zipcode": 11368
+  },
+  {
+    "rid": 65,
+    "cid": 64,
+    "name": "LAVELLE'S ADMIRAL'S CLUB",
+    "city": "Queens",
+    "building": 45,
+    "street": "BROADWAY",
+    "zipcode": 11103
+  },
+  {
+    "rid": 66,
+    "cid": 65,
+    "name": "NEARY'S PUB",
+    "city": "Manhattan",
+    "building": 358,
+    "street": "EAST   57 STREET",
+    "zipcode": 10022
+  },
+  {
+    "rid": 67,
+    "cid": 66,
+    "name": "NEW YORK PIZZA SUPREMA",
+    "city": "Manhattan",
+    "building": 413,
+    "street": "8 AVENUE",
+    "zipcode": 10001
+  },
+  {
+    "rid": 68,
+    "cid": 67,
+    "name": "MEE SUM CAFE",
+    "city": "Manhattan",
+    "building": 26,
+    "street": "PELL STREET",
+    "zipcode": 10013
+  },
+  {
+    "rid": 69,
+    "cid": 68,
+    "name": "NANCY'S RESTAURANT",
+    "city": "Queens",
+    "building": 255,
+    "street": "JAMAICA AVENUE",
+    "zipcode": 11001
+  },
+  {
+    "rid": 70,
+    "cid": 69,
+    "name": "HOP KEE RESTAURANT",
+    "city": "Manhattan",
+    "building": 21,
+    "street": "MOTT STREET",
+    "zipcode": 10013
+  },
+  {
+    "rid": 71,
+    "cid": 70,
+    "name": "NANCY WHISKEY PUB",
+    "city": "Manhattan",
+    "building": 1,
+    "street": "LISPENARD STREET",
+    "zipcode": 10013
+  },
+  {
+    "rid": 72,
+    "cid": 71,
+    "name": "BLARNEY BAR",
+    "city": "Queens",
+    "building": 146,
+    "street": "JAMAICA AVENUE",
+    "zipcode": 11435
+  },
+  {
+    "rid": 73,
+    "cid": 72,
+    "name": "MARGHERITA PIZZA",
+    "city": "Queens",
+    "building": 16304,
+    "street": "JAMAICA AVENUE",
+    "zipcode": 11432
+  },
+  {
+    "rid": 74,
+    "cid": 73,
+    "name": "HEALY'S PUB",
+    "city": "Queens",
+    "building": 10807,
+    "street": "ROCKAWAY BEACH BOULEVARD",
+    "zipcode": 11694
+  },
+  {
+    "rid": 75,
+    "cid": 74,
+    "name": "FIFTH AVENUE BINGO",
+    "city": "Brooklyn",
+    "building": 416,
+    "street": "5 AVENUE",
+    "zipcode": 11215
+  },
+  {
+    "rid": 76,
+    "cid": 75,
+    "name": "DENINO'S PIZZERIA TAVERN",
+    "city": "Staten Island",
+    "building": "524",
+    "street": "PORT RICHMOND AVENUE",
+    "zipcode": "10302"
+  },
+  {
+    "rid": 77,
+    "cid": 1,
+    "name": "MICHAEL'S RESTAURANT",
+    "city": "Brooklyn",
+    "building": 2929,
+    "street": "AVENUE R",
+    "zipcode": 11229
+  },
+  {
+    "rid": 78,
+    "cid": 2,
+    "name": "KILLARNEY ROSE",
+    "city": "Manhattan",
+    "building": 80,
+    "street": "BEAVER STREET",
+    "zipcode": 10005
+  },
+  {
+    "rid": 79,
+    "cid": 3,
+    "name": "DON PEPPE",
+    "city": "Queens",
+    "building": 13558,
+    "street": "LEFFERTS BOULEVARD",
+    "zipcode": 11420
+  },
+  {
+    "rid": 80,
+    "cid": 4,
+    "name": "BLARNEY CASTLE",
+    "city": "Queens",
+    "building": 20224,
+    "street": "ROCKAWAY POINT BOULEVARD",
+    "zipcode": 11697
+  },
+  {
+    "rid": 81,
+    "cid": 5,
+    "name": "ROLL-N-ROASTER",
+    "city": "Brooklyn",
+    "building": 2901,
+    "street": "EMMONS AVENUE",
+    "zipcode": 11235
+  },
+  {
+    "rid": 82,
+    "cid": 6,
+    "name": "TIO PEPE",
+    "city": "Manhattan",
+    "building": 168,
+    "street": "WEST    4 STREET",
+    "zipcode": 10014
+  },
+  {
+    "rid": 83,
+    "cid": 7,
+    "name": "BRENNAN & CARR",
+    "city": "Brooklyn",
+    "building": 3432,
+    "street": "NOSTRAND AVENUE",
+    "zipcode": 11229
+  },
+  {
+    "rid": 84,
+    "cid": 8,
+    "name": "THE PUNCH BOWL",
+    "city": "Bronx",
+    "building": 5820,
+    "street": "BROADWAY",
+    "zipcode": 10463
+  },
+  {
+    "rid": 85,
+    "cid": 9,
+    "name": "JARDIN DE CHINA REST",
+    "city": "Queens",
+    "building": 3737,
+    "street": "JUNCTION BOULEVARD",
+    "zipcode": 11368
+  },
+  {
+    "rid": 86,
+    "cid": 10,
+    "name": "BLARNEY STONE",
+    "city": "Manhattan",
+    "building": 11,
+    "street": "TRINITY PLACE",
+    "zipcode": 10006
+  },
+  {
+    "rid": 87,
+    "cid": 11,
+    "name": "SHIMONS KOSHER PIZZA",
+    "city": "Queens",
+    "building": 71,
+    "street": "MAIN STREET",
+    "zipcode": 11367
+  },
+  {
+    "rid": 88,
+    "cid": 12,
+    "name": "FASCATI'S PIZZERIA",
+    "city": "Brooklyn",
+    "building": 80,
+    "street": "HENRY STREET",
+    "zipcode": 11201
+  },
+  {
+    "rid": 89,
+    "cid": 13,
+    "name": "BABY BO'S CANTINA",
+    "city": "Manhattan",
+    "building": 627,
+    "street": "2 AVENUE",
+    "zipcode": 10016
+  },
+  {
+    "rid": 90,
+    "cid": 14,
+    "name": "LI GRECI'S STAATEN RESTAURANT",
+    "city": "Staten Island",
+    "building": 697,
+    "street": "FOREST AVENUE",
+    "zipcode": 10310
+  },
+  {
+    "rid": 91,
+    "cid": 15,
+    "name": "SHUN LEE PALACE RESTAURANT",
+    "city": "Manhattan",
+    "building": 155,
+    "street": "EAST   55 STREET",
+    "zipcode": 10022
+  },
+  {
+    "rid": 92,
+    "cid": 16,
+    "name": "TAMAQUA",
+    "city": "Brooklyn",
+    "building": 84,
+    "street": "EBONY COURT",
+    "zipcode": 11229
+  },
+  {
+    "rid": 93,
+    "cid": 17,
+    "name": "CARA MIA",
+    "city": "Queens",
+    "building": 22020,
+    "street": "HILLSIDE AVENUE",
+    "zipcode": 11427
+  },
+  {
+    "rid": 94,
+    "cid": 18,
+    "name": "STEVE'S COFFEE SHOP",
+    "city": "Queens",
+    "building": 416,
+    "street": "2ND ST"
+  },
+  {
+    "rid": 95,
+    "cid": 19,
+    "name": "JEAN-GEORGES",
+    "city": "Manhattan",
+    "building": 1,
+    "street": "CENTRAL PARK WEST",
+    "zipcode": 10023
+  }
+]

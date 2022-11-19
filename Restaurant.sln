@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{6A15D678-91DA-47E3-A00C-517F13394A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Core", "Restaurant.Core\Restaurant.Core.csproj", "{CED17CE4-66CE-4054-8953-819EBBB507C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A15D678-91DA-47E3-A00C-517F13394A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A15D678-91DA-47E3-A00C-517F13394A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A15D678-91DA-47E3-A00C-517F13394A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A15D678-91DA-47E3-A00C-517F13394A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED17CE4-66CE-4054-8953-819EBBB507C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED17CE4-66CE-4054-8953-819EBBB507C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED17CE4-66CE-4054-8953-819EBBB507C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED17CE4-66CE-4054-8953-819EBBB507C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
